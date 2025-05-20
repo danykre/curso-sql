@@ -1,12 +1,12 @@
 ### Proyecto final - Curso SQL (Coderhouse)
 
-Este repositorio contiene el proyecto final del curso de SQL de Coderhouse.
+Este repositorio contiene el proyecto final del curso de SQL de Coderhouse, basado en el análisis de un dataset de Netflix. El objetivo es practicar y demostrar los conocimientos adquiridos en la creación y gestión de bases de datos relacionales.
 
-#### Contenido del repositorio:
+#### Contenido del repositorio
 
-- Script en SQL con la creación de la base de datos y tablas.
-- Script en SQL con la inserción de datos.
-- Script en SQL con las vistas, funciones, Stored Procedures y Trigger.
-- Documentación con toda la descripción del proceso del proyecto.
-- Base de datos: dataset de Netflix.
-- Diagrama entidad-relación generado en Draw.io y el obtenido de MySQL Workbench.
+- **Creación de la base de datos y tablas:** Script SQL para definir la estructura.
+- **Inserción de datos:** Script SQL con datos de ejemplo.
+- **Vistas, funciones, stored procedures y triggers:** Implementaciones avanzadas de SQL.
+- **Documentación:** Descripción detallada del proceso y decisiones técnicas.
+- **Base de datos:** Dataset de Netflix utilizado para poblar la base.
+- **Diagramas entidad-relación:** Archivos generados en Draw.io y MySQL Workbench.
