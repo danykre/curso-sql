@@ -2,11 +2,8 @@
 
 Este repositorio contiene el proyecto final del curso de SQL de Coderhouse.
 
-#### Contenido del repositorio:
+#### 🖼️ Diagrama entidad-relación
 
-- Script en SQL con la creación de la base de datos y tablas.
-- Script en SQL con la inserción de datos.
-- Script en SQL con las vistas, funciones, Stored Procedures y Trigger.
-- Documentación con toda la descripción del proceso del proyecto.
-- Base de datos: Dataset de Netflix.
-- Diagrama entidad-relación generado en Draw.io y el obtenido de MySQL Workbench.
+El diagrama ER fue realizado en Draw.io y exportado como PDF. Podés verlo aquí:
+
+[Ver diagrama ER (PDF)](der_drawio_y_mysql.pdf)
