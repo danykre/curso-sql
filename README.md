@@ -12,7 +12,7 @@ El diagrama ER fue realizado en Draw.io y exportado como PDF. Podés verlo aquí
 
 #### 🛠️ Tecnologías utilizadas
 
-- **MySQL Workbench** – para diseño y ejecución de scripts
-- **Draw.io** – para modelado entidad-relación
-- **Visual Studio Code** – para edición de scripts
-- **Git & GitHub** – para control de versiones y publicación
+- **MySQL Workbench**
+- **Microsoft Excel**
+- **Draw.io**
+- **GitHub** 
