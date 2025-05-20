@@ -8,5 +8,5 @@ Este repositorio contiene el proyecto final del curso de SQL de Coderhouse.
 - Script en SQL con la inserción de datos.
 - Script en SQL con las vistas, funciones, Stored Procedures y Trigger.
 - Documentación con toda la descripción del proceso del proyecto.
-- Base de datos: Dataset de Netflix.
+- Base de datos: dataset de Netflix.
 - Diagrama entidad-relación generado en Draw.io y el obtenido de MySQL Workbench.
